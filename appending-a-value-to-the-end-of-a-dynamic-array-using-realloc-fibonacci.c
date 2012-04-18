@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* adding a comment */
+
 int * dynamic_array_append(int * array, int size);
 
 int main() {
